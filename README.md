@@ -23,3 +23,8 @@ Join 화면 <br><br>
 
 Join Result 화면 <br><br>
 <img width="376" height="175" alt="image" src="https://github.com/user-attachments/assets/75d18172-62ae-4731-ad2a-efc021dfb58f" />
+
+---
+
+Greeting 화면 <br><br>
+<img width="378" height="176" alt="image" src="https://github.com/user-attachments/assets/c49deb74-682d-4757-82dd-3ec8be8f0031" />
